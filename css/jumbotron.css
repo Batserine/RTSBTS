@@ -1,0 +1,15 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    /*padding-bottom: 20px;*/
+    background-image: url("../assets/img/form.jpg");
+    background-size: 100%;
+}
+
+.row {
+    padding-bottom: 20px;
+}
+
+.dashboard {
+    background-color: rgba(238, 238, 238, 0.4);
+}
